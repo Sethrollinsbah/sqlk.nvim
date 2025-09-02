@@ -1,4 +1,4 @@
-## **SQLK.nvim**
+## **SQLk.nvim**
 
 A Neovim plugin that uses [SQLk](https://github.com/sethrollinsbah/sqlk) for SQL query execution and visualization. 
 This plugin allows you to run SQL queries directly from your Neovim buffer and view the results in a separate window.
